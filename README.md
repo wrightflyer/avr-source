@@ -89,3 +89,5 @@ main:
     .text
 
 Each line of source annotation beginning //==>
+
+(trying to fix line endings in code above!)
